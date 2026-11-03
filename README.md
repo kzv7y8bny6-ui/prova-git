@@ -1,4 +1,3 @@
 # prova-git
-hey amigo
-i campioni so cosi
+Versione A del messaggio
 Repository di prova per imparare il flusso branch → pull request → merge.
